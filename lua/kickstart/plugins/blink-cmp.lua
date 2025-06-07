@@ -87,6 +87,9 @@ return {
             async = true,
           },
         },
+        per_filetype = {
+          codecompanion = { 'codecompanion' },
+        },
       },
 
       snippets = { preset = 'luasnip' },
